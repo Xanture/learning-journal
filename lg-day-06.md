@@ -9,4 +9,4 @@ Day 4. Functions!! Super excited to keep learning about functions. It was really
 
 Day 5. Okay today was super awesome. I was having such hard time with arrays. The lab today really cleared up how to use arrays in ways I never thought. I am really loving this class. I can't wait for next week. I'm going to try and continue to work on my about me page. HTML/CSS design is where i'm struggling the most. Let's see if I can't work on it over the weekend.
 
-Day 6. Feeling pretty good about object literals. Still getting my sea legs for this DOM stuff. I'm sure with enough practice i'll be flying in no time.  
+Day 6. Feeling pretty good about object literals. Still getting my sea legs for this DOM stuff. I'm sure with enough practice i'll be flying in no time.   
